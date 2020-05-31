@@ -25,7 +25,7 @@ class Config():
     password = ''
     log_path = os.path.join(basedir,'log.txt')
     sckey = ''
-    use_sm = True
+    use_sm = False
     QQCR = {
         'username': '',
         'password': '',
