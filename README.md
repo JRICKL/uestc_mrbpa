@@ -22,7 +22,7 @@
  
 ## 使用方法
 1. 编辑 config.py 文件里面的信息
-2. 定时执行脚本
+2. 定时执行脚本 python mrbpa.py
     - linux crontab 定时执行
     - windows 右键"我的电脑"，选择"管理"，里面有任务计划程序，配置成开机启动就OK
  
