@@ -1,0 +1,719 @@
+1590491206944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilecxYPv6"
+1590491207416	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590491207886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590491207887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590491207887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590491207887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590491210715	Marionette	INFO	Listening on port 5432
+1590491211069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590491256213	Marionette	INFO	Stopped listening on port 5432
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1590497911540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileUNFte1"
+1590497912014	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590497912552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590497912552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590497912552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590497912552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590497915373	Marionette	INFO	Listening on port 9448
+1590497915664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590498001806	Marionette	INFO	Stopped listening on port 9448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1590498770934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2YI48E"
+1590498771370	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590498771824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590498771824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590498771824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590498771824	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590498774769	Marionette	INFO	Listening on port 1072
+1590498775083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590498827345	Marionette	INFO	Stopped listening on port 1072
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1590499913556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileCPgYw2"
+1590499914011	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590499914520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590499914521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590499914521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590499914521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590499917375	Marionette	INFO	Listening on port 3999
+1590499917674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590499920587	Marionette	INFO	Stopped listening on port 3999
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1590500096408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilePvIDgp"
+*** You are running in headless mode.
+1590500096840	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590500097331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590500097331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590500097331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590500097331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590500099341	Marionette	INFO	Listening on port 4218
+1590500099547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-24133-lwkVKdwpn6HVwjoYhc0T1590500111028-Nof5-cas&y7bRbP=rj3.cqDa7hca7hca7qjtoCFD2RsVjFOs5ZkzUngYQjGqqhq line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-24133-lwkVKdwpn6HVwjoYhc0T1590500111028-Nof5-cas&y7bRbP=rj3.cqDa7hca7hca7qjtoCFD2RsVjFOs5ZkzUngYQjGqqhq line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-24133-lwkVKdwpn6HVwjoYhc0T1590500111028-Nof5-cas&y7bRbP=rj3.cqDa7hca7hca7qjtoCFD2RsVjFOs5ZkzUngYQjGqqhq line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-24133-lwkVKdwpn6HVwjoYhc0T1590500111028-Nof5-cas&y7bRbP=rj3.cqDa7hca7hca7qjtoCFD2RsVjFOs5ZkzUngYQjGqqhq line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-24133-lwkVKdwpn6HVwjoYhc0T1590500111028-Nof5-cas&y7bRbP=rj3acqDFbNjFbNjFbfv9v_efmCS5k1DR2k9anw.ReAZqqxL line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-24133-lwkVKdwpn6HVwjoYhc0T1590500111028-Nof5-cas&y7bRbP=rj3acqDFbNjFbNjFbfv9v_efmCS5k1DR2k9anw.ReAZqqxL line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-24133-lwkVKdwpn6HVwjoYhc0T1590500111028-Nof5-cas&y7bRbP=rj3acqDFbNjFbNjFbfv9v_efmCS5k1DR2k9anw.ReAZqqxL line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-24133-lwkVKdwpn6HVwjoYhc0T1590500111028-Nof5-cas&y7bRbP=rj3acqDFbNjFbNjFbfv9v_efmCS5k1DR2k9anw.ReAZqqxL line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590500135355	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://res.uestc.cn/fe_components/commonlib.js:3:14904
+ajax@http://res.uestc.cn/fe_components/commonlib.js:3:11559
+Plugin.prototype.getSchemaList@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:18058:15
+$.fn.emapSchema@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:18158:67
+_renderFixedSchema@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:26715:36
+_initSchema@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:26702:25
+_init@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:27011:26
+Plugin@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:25664:12
+$.fn.emapAdvancedQuery/<@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:27082:39
+each@http://res.uestc.cn/fe_components/commonlib.js:1:12105
+each@http://res.uestc.cn/fe_components/commonlib.js:1:10082
+$.fn.emapAdvancedQuery@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:27081:19
+_initAdvanceQuery@http://eportal.uestc.edu.cn/qljfwapp/sys/lwReportEpidemicStu/modules/dailyReport/dailyReport.js?av=6:195:41
+initView@http://eportal.uestc.edu.cn/qljfwapp/sys/lwReportEpidemicStu/modules/dailyReport/dailyReport.js?av=6:28:9
+initialize@http://eportal.uestc.edu.cn/qljfwapp/sys/lwReportEpidemicStu/modules/dailyReport/dailyReport.js?av=6:14:9
+baseView@http://res.uestc.cn/fe_components/appcore.js:3376:13
+start/</</</</</</</<@http://res.uestc.cn/fe_components/appcore.js:3462:61
+execCb@http://res.uestc.cn/fe_components/appcore.js:1690:33
+check@http://res.uestc.cn/fe_components/appcore.js:865:51
+enable/</<@http://res.uestc.cn/fe_components/appcore.js:1140:34
+bind/<@http://res.uestc.cn/fe_components/appcore.js:131:23
+emit/<@http://res.uestc.cn/fe_components/appcore.js:1190:23
+each@http://res.uestc.cn/fe_components/appcore.js:56:31
+emit@http://res.uestc.cn/fe_components/appcore.js:1189:21
+check@http://res.uestc.cn/fe_components/appcore.js:940:30
+enable/</<@http://res.uestc.cn/fe_components/appcore.js:1140:34
+bind/<@http://res.uestc.cn/fe_components/appcore.js:131:23
+emit/<@http://res.uestc.cn/fe_components/appcore.js:1190:23
+each@http://res.uestc.cn/fe_components/appcore.js:56:31
+emit@http://res.uestc.cn/fe_components/appcore.js:1189:21
+check@http://res.uestc.cn/fe_components/appcore.js:940:30
+enable@http://res.uestc.cn/fe_components/appcore.js:1177:22
+init@http://res.uestc.cn/fe_components/appcore.js:783:26
+callGetModule@http://res.uestc.cn/fe_components/appcore.js:1204:63
+completeLoad@http://res.uestc.cn/fe_components/appcore.js:1583:34
+onScriptLoad@http://res.uestc.cn/fe_components/appcore.js:1711:29
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590500187450	Marionette	INFO	Stopped listening on port 4218
+[Child 2880, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Child 2880, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1590500218704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilee2MK3K"
+*** You are running in headless mode.
+1590500219135	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590500219613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590500219613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590500219613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590500219613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590500221713	Marionette	INFO	Listening on port 8150
+1590500221822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-24156-XFIcktgGAzUHPavbq1ZL1590500244014-Nof5-cas&y7bRbP=rj3.cqmwUYTwUYTwUMWmzkq23B8E090YSea4O3rX440qqm0 line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-24156-XFIcktgGAzUHPavbq1ZL1590500244014-Nof5-cas&y7bRbP=rj3.cqmwUYTwUYTwUMWmzkq23B8E090YSea4O3rX440qqm0 line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-24156-XFIcktgGAzUHPavbq1ZL1590500244014-Nof5-cas&y7bRbP=rj3.cqmwUYTwUYTwUMWmzkq23B8E090YSea4O3rX440qqm0 line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-24156-XFIcktgGAzUHPavbq1ZL1590500244014-Nof5-cas&y7bRbP=rj3.cqmwUYTwUYTwUMWmzkq23B8E090YSea4O3rX440qqm0 line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-24156-XFIcktgGAzUHPavbq1ZL1590500244014-Nof5-cas&y7bRbP=rj3.cqm5Ivy5Ivy5IbU5tUkqrlSfbrGlRscY8QQ7kZgqqog line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-24156-XFIcktgGAzUHPavbq1ZL1590500244014-Nof5-cas&y7bRbP=rj3.cqm5Ivy5Ivy5IbU5tUkqrlSfbrGlRscY8QQ7kZgqqog line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-24156-XFIcktgGAzUHPavbq1ZL1590500244014-Nof5-cas&y7bRbP=rj3.cqm5Ivy5Ivy5IbU5tUkqrlSfbrGlRscY8QQ7kZgqqog line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-24156-XFIcktgGAzUHPavbq1ZL1590500244014-Nof5-cas&y7bRbP=rj3.cqm5Ivy5Ivy5IbU5tUkqrlSfbrGlRscY8QQ7kZgqqog line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590500275921	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://res.uestc.cn/fe_components/commonlib.js:3:14904
+ajax@http://res.uestc.cn/fe_components/commonlib.js:3:11559
+Plugin.prototype.getSchemaList@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:18058:15
+$.fn.emapSchema@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:18158:67
+_initSchema@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:30282:17
+_genColums@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:30328:50
+_create@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:30106:26
+Plugin@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:29259:14
+$.fn.emapdatatable/<@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:31430:46
+each@http://res.uestc.cn/fe_components/commonlib.js:1:12105
+each@http://res.uestc.cn/fe_components/commonlib.js:1:10082
+$.fn.emapdatatable@http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6:31428:19
+_initTable@http://eportal.uestc.edu.cn/qljfwapp/sys/lwReportEpidemicStu/modules/dailyReport/dailyReport.js?av=6:229:24
+initView@http://eportal.uestc.edu.cn/qljfwapp/sys/lwReportEpidemicStu/modules/dailyReport/dailyReport.js?av=6:29:9
+initialize@http://eportal.uestc.edu.cn/qljfwapp/sys/lwReportEpidemicStu/modules/dailyReport/dailyReport.js?av=6:14:9
+baseView@http://res.uestc.cn/fe_components/appcore.js:3376:13
+start/</</</</</</</<@http://res.uestc.cn/fe_components/appcore.js:3462:61
+execCb@http://res.uestc.cn/fe_components/appcore.js:1690:33
+check@http://res.uestc.cn/fe_components/appcore.js:865:51
+enable/</<@http://res.uestc.cn/fe_components/appcore.js:1140:34
+bind/<@http://res.uestc.cn/fe_components/appcore.js:131:23
+emit/<@http://res.uestc.cn/fe_components/appcore.js:1190:23
+each@http://res.uestc.cn/fe_components/appcore.js:56:31
+emit@http://res.uestc.cn/fe_components/appcore.js:1189:21
+check@http://res.uestc.cn/fe_components/appcore.js:940:30
+enable/</<@http://res.uestc.cn/fe_components/appcore.js:1140:34
+bind/<@http://res.uestc.cn/fe_components/appcore.js:131:23
+emit/<@http://res.uestc.cn/fe_components/appcore.js:1190:23
+each@http://res.uestc.cn/fe_components/appcore.js:56:31
+emit@http://res.uestc.cn/fe_components/appcore.js:1189:21
+check@http://res.uestc.cn/fe_components/appcore.js:940:30
+enable/</<@http://res.uestc.cn/fe_components/appcore.js:1140:34
+bind/<@http://res.uestc.cn/fe_components/appcore.js:131:23
+emit/<@http://res.uestc.cn/fe_components/appcore.js:1190:23
+each@http://res.uestc.cn/fe_components/appcore.js:56:31
+emit@http://res.uestc.cn/fe_components/appcore.js:1189:21
+check@http://res.uestc.cn/fe_components/appcore.js:940:30
+enable@http://res.uestc.cn/fe_components/appcore.js:1177:22
+init@http://res.uestc.cn/fe_components/appcore.js:783:26
+callGetModule@http://res.uestc.cn/fe_components/appcore.js:1204:63
+completeLoad@http://res.uestc.cn/fe_components/appcore.js:1583:34
+onScriptLoad@http://res.uestc.cn/fe_components/appcore.js:1711:29
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590500313045	Marionette	INFO	Stopped listening on port 8150
+1590556384963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilelDeF8U"
+*** You are running in headless mode.
+1590556385365	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590556385831	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590556385832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590556385832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590556385832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590556387793	Marionette	INFO	Listening on port 3176
+1590556388084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1590556475365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilepkG5HD"
+1590556475724	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590556476140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590556476140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590556476140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590556476140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590556478432	Marionette	INFO	Listening on port 3451
+1590556478499	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590556488333	Marionette	INFO	Stopped listening on port 3451
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1590556544117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileczI47B"
+1590556544469	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590556544894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590556544894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590556544894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590556544894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590556546996	Marionette	INFO	Listening on port 3611
+1590556547253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://bot.4paradigm.com/web/static/js/vendor.6113375076ba7665058a.js, line 1: ReferenceError: webpackJsonp is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590556575381	Marionette	INFO	Stopped listening on port 3611
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1590558562564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileJPEWmt"
+1590558562940	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590558563376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590558563376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590558563376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590558563376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590558565715	Marionette	INFO	Listening on port 4382
+1590558566199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://res.uestc.cn/fe_components/appcore.js, line 165: Error: Script error for "http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590558651691	Marionette	INFO	Stopped listening on port 4382
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+libpng warning: iCCP: cHRM chunk does not match sRGB
+1590567706123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilev548S3"
+*** You are running in headless mode.
+1590567706500	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590567706953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590567706954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590567706954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590567706954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590567708802	Marionette	INFO	Listening on port 13114
+1590567709237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-50839-0j0qsYgEQawuefivC9T21590567716961-qnRB-cas&y7bRbP=rjMGcqDkGgikGgikGS1ba7Pl06RsKlTHsFU1jTEJFhQqqEW line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-50839-0j0qsYgEQawuefivC9T21590567716961-qnRB-cas&y7bRbP=rjMGcqDkGgikGgikGS1ba7Pl06RsKlTHsFU1jTEJFhQqqEW line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-50839-0j0qsYgEQawuefivC9T21590567716961-qnRB-cas&y7bRbP=rjMGcqDkGgikGgikGS1ba7Pl06RsKlTHsFU1jTEJFhQqqEW line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-50839-0j0qsYgEQawuefivC9T21590567716961-qnRB-cas&y7bRbP=rjMGcqDkGgikGgikGS1ba7Pl06RsKlTHsFU1jTEJFhQqqEW line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-50839-0j0qsYgEQawuefivC9T21590567716961-qnRB-cas&y7bRbP=rjMGcqlslSWslSWslCQPQFYULda8AqFoXfBh4du0crAqqrW line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-50839-0j0qsYgEQawuefivC9T21590567716961-qnRB-cas&y7bRbP=rjMGcqlslSWslSWslCQPQFYULda8AqFoXfBh4du0crAqqrW line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-50839-0j0qsYgEQawuefivC9T21590567716961-qnRB-cas&y7bRbP=rjMGcqlslSWslSWslCQPQFYULda8AqFoXfBh4du0crAqqrW line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-50839-0j0qsYgEQawuefivC9T21590567716961-qnRB-cas&y7bRbP=rjMGcqlslSWslSWslCQPQFYULda8AqFoXfBh4du0crAqqrW line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590567753039	Marionette	INFO	Stopped listening on port 13114
+1590567804949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilej9Qnv7"
+*** You are running in headless mode.
+1590567805312	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590567805757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590567805757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590567805757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590567805757	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590567807695	Marionette	INFO	Listening on port 14913
+1590567808064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/NetworkGeolocationProvider.jsm, line 555: TypeError: xhr.response.location is undefined
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-50947-PZIebRhLsmfeR3dSVTUg1590567818660-vuau-cas&y7bRbP=rjMRcqoqaWkqaWkqatNecn3BhBH4VQFFeru48.XQjSqqqWq line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-50947-PZIebRhLsmfeR3dSVTUg1590567818660-vuau-cas&y7bRbP=rjMRcqoqaWkqaWkqatNecn3BhBH4VQFFeru48.XQjSqqqWq line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-50947-PZIebRhLsmfeR3dSVTUg1590567818660-vuau-cas&y7bRbP=rjMRcqoqaWkqaWkqatNecn3BhBH4VQFFeru48.XQjSqqqWq line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-50947-PZIebRhLsmfeR3dSVTUg1590567818660-vuau-cas&y7bRbP=rjMRcqoqaWkqaWkqatNecn3BhBH4VQFFeru48.XQjSqqqWq line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-50947-PZIebRhLsmfeR3dSVTUg1590567818660-vuau-cas&y7bRbP=rjMVcqoMCeBMCeBMCZTtgJEHEpSe_Y6Op0GEi8hBv9QqqJ7 line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-50947-PZIebRhLsmfeR3dSVTUg1590567818660-vuau-cas&y7bRbP=rjMVcqoMCeBMCeBMCZTtgJEHEpSe_Y6Op0GEi8hBv9QqqJ7 line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-50947-PZIebRhLsmfeR3dSVTUg1590567818660-vuau-cas&y7bRbP=rjMVcqoMCeBMCeBMCZTtgJEHEpSe_Y6Op0GEi8hBv9QqqJ7 line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-50947-PZIebRhLsmfeR3dSVTUg1590567818660-vuau-cas&y7bRbP=rjMVcqoMCeBMCeBMCZTtgJEHEpSe_Y6Op0GEi8hBv9QqqJ7 line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590567855049	Marionette	INFO	Stopped listening on port 14913
+1590567888701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilexfnRee"
+*** You are running in headless mode.
+1590567889132	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590567889558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590567889558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590567889558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590567889558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590567891311	Marionette	INFO	Listening on port 16563
+1590567891815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-40720-rKaoU6Xc21WHQjzDwL5E1590567926794-Nof5-cas&y7bRbP=rjM9cqlLtcGLtcGLtrA5_gX0AA57wwk9pyU8ew3gjRlqqcG line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-40720-rKaoU6Xc21WHQjzDwL5E1590567926794-Nof5-cas&y7bRbP=rjM9cqlLtcGLtcGLtrA5_gX0AA57wwk9pyU8ew3gjRlqqcG line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-40720-rKaoU6Xc21WHQjzDwL5E1590567926794-Nof5-cas&y7bRbP=rjM9cqlLtcGLtcGLtrA5_gX0AA57wwk9pyU8ew3gjRlqqcG line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-40720-rKaoU6Xc21WHQjzDwL5E1590567926794-Nof5-cas&y7bRbP=rjM9cqlLtcGLtcGLtrA5_gX0AA57wwk9pyU8ew3gjRlqqcG line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-40720-rKaoU6Xc21WHQjzDwL5E1590567926794-Nof5-cas&y7bRbP=rjM9cqo2y8U2y8U2yUzBx1O6J6jBeDehO27KCpZiWplqqiV line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-40720-rKaoU6Xc21WHQjzDwL5E1590567926794-Nof5-cas&y7bRbP=rjM9cqo2y8U2y8U2yUzBx1O6J6jBeDehO27KCpZiWplqqiV line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-40720-rKaoU6Xc21WHQjzDwL5E1590567926794-Nof5-cas&y7bRbP=rjM9cqo2y8U2y8U2yUzBx1O6J6jBeDehO27KCpZiWplqqiV line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-40720-rKaoU6Xc21WHQjzDwL5E1590567926794-Nof5-cas&y7bRbP=rjM9cqo2y8U2y8U2yUzBx1O6J6jBeDehO27KCpZiWplqqiV line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590568025242	Marionette	INFO	Stopped listening on port 16563
+1590568129264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile5L7lXt"
+*** You are running in headless mode.
+1590568129716	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590568130310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590568130310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590568130310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590568130310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590568132556	Marionette	INFO	Listening on port 20548
+1590568132881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bot.4paradigm.com/web/static/js/manifest.ddf5cb510c8ba98b4393.js, line 1: TypeError: e[n] is undefined
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-40786-SbVM9bgOmUNiRSLNuMT21590568147675-Nof5-cas&y7bRbP=rjMYcqDlfE1lfE1lfWiOF5Sf7ILDex8DOmNTfdYrBFgqqEA line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-40786-SbVM9bgOmUNiRSLNuMT21590568147675-Nof5-cas&y7bRbP=rjMYcqDlfE1lfE1lfWiOF5Sf7ILDex8DOmNTfdYrBFgqqEA line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-40786-SbVM9bgOmUNiRSLNuMT21590568147675-Nof5-cas&y7bRbP=rjMYcqDlfE1lfE1lfWiOF5Sf7ILDex8DOmNTfdYrBFgqqEA line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-40786-SbVM9bgOmUNiRSLNuMT21590568147675-Nof5-cas&y7bRbP=rjMYcqDlfE1lfE1lfWiOF5Sf7ILDex8DOmNTfdYrBFgqqEA line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-40786-SbVM9bgOmUNiRSLNuMT21590568147675-Nof5-cas&y7bRbP=rjMYcqotn7.tn7.tnfaK2Cfz5.c_wbGvJ7lW9vfWjwLqqWL line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-40786-SbVM9bgOmUNiRSLNuMT21590568147675-Nof5-cas&y7bRbP=rjMYcqotn7.tn7.tnfaK2Cfz5.c_wbGvJ7lW9vfWjwLqqWL line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-40786-SbVM9bgOmUNiRSLNuMT21590568147675-Nof5-cas&y7bRbP=rjMYcqotn7.tn7.tnfaK2Cfz5.c_wbGvJ7lW9vfWjwLqqWL line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-40786-SbVM9bgOmUNiRSLNuMT21590568147675-Nof5-cas&y7bRbP=rjMYcqotn7.tn7.tnfaK2Cfz5.c_wbGvJ7lW9vfWjwLqqWL line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://res.uestc.cn/fe_components/appcore.js, line 165: Error: Script error for "http://res.uestc.cn/fe_components/jqwidget/jqxwidget.min.js?rv=100003"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590568222460	Marionette	INFO	Stopped listening on port 20548
+1590568941080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilej6wStG"
+*** You are running in headless mode.
+1590568941744	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590568942260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590568942260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590568942260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590568942260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590568944485	Marionette	INFO	Listening on port 24823
+1590568944703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F, line 40: ReferenceError: IcsWebSdkJs is not defined
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-41021-exgSGo5dphlngwIsXUCZ1590568962240-Nof5-cas&y7bRbP=rjMMcqm2RKY2RKY2RKqm6orQILfAH0Q8U6wgAETVba7qqDV line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-41021-exgSGo5dphlngwIsXUCZ1590568962240-Nof5-cas&y7bRbP=rjMMcqm2RKY2RKY2RKqm6orQILfAH0Q8U6wgAETVba7qqDV line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-41021-exgSGo5dphlngwIsXUCZ1590568962240-Nof5-cas&y7bRbP=rjMMcqm2RKY2RKY2RKqm6orQILfAH0Q8U6wgAETVba7qqDV line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-41021-exgSGo5dphlngwIsXUCZ1590568962240-Nof5-cas&y7bRbP=rjMMcqm2RKY2RKY2RKqm6orQILfAH0Q8U6wgAETVba7qqDV line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-41021-exgSGo5dphlngwIsXUCZ1590568962240-Nof5-cas&y7bRbP=rjMMcqluWuWuWuWuWT3WMR5sfh.ELzkHC0j6.nR0U8AqqkW line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-41021-exgSGo5dphlngwIsXUCZ1590568962240-Nof5-cas&y7bRbP=rjMMcqluWuWuWuWuWT3WMR5sfh.ELzkHC0j6.nR0U8AqqkW line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-41021-exgSGo5dphlngwIsXUCZ1590568962240-Nof5-cas&y7bRbP=rjMMcqluWuWuWuWuWT3WMR5sfh.ELzkHC0j6.nR0U8AqqkW line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-41021-exgSGo5dphlngwIsXUCZ1590568962240-Nof5-cas&y7bRbP=rjMMcqluWuWuWuWuWT3WMR5sfh.ELzkHC0j6.nR0U8AqqkW line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590569046208	Marionette	INFO	Stopped listening on port 24823
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1590569329550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileo2B8sv"
+*** You are running in headless mode.
+1590569329947	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590569330394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590569330394	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590569330395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590569330395	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590569332421	Marionette	INFO	Listening on port 29058
+1590569332662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-51396-vAIW4vBj0Ohm2dJxec4h1590569350328-qnRB-cas&y7bRbP=rjMzcqlLtcGLtcGLtHf2rdWEHwd1IAYXXi2zND_C72QqqcG line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-51396-vAIW4vBj0Ohm2dJxec4h1590569350328-qnRB-cas&y7bRbP=rjMzcqlLtcGLtcGLtHf2rdWEHwd1IAYXXi2zND_C72QqqcG line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-51396-vAIW4vBj0Ohm2dJxec4h1590569350328-qnRB-cas&y7bRbP=rjMzcqlLtcGLtcGLtHf2rdWEHwd1IAYXXi2zND_C72QqqcG line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-51396-vAIW4vBj0Ohm2dJxec4h1590569350328-qnRB-cas&y7bRbP=rjMzcqlLtcGLtcGLtHf2rdWEHwd1IAYXXi2zND_C72QqqcG line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-51396-vAIW4vBj0Ohm2dJxec4h1590569350328-qnRB-cas&y7bRbP=rjMzcqm0wop0wop0wcP7DcFMQEne_bbuL5Dghx0HF0VqqoA line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-51396-vAIW4vBj0Ohm2dJxec4h1590569350328-qnRB-cas&y7bRbP=rjMzcqm0wop0wop0wcP7DcFMQEne_bbuL5Dghx0HF0VqqoA line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-51396-vAIW4vBj0Ohm2dJxec4h1590569350328-qnRB-cas&y7bRbP=rjMzcqm0wop0wop0wcP7DcFMQEne_bbuL5Dghx0HF0VqqoA line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-51396-vAIW4vBj0Ohm2dJxec4h1590569350328-qnRB-cas&y7bRbP=rjMzcqm0wop0wop0wcP7DcFMQEne_bbuL5Dghx0HF0VqqoA line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1590573134276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileI9GEo3"
+*** You are running in headless mode.
+1590573134696	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590573135178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590573135178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590573135178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590573135178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590573137303	Marionette	INFO	Listening on port 38040
+1590573137398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1590573202309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilesOXqBE"
+*** You are running in headless mode.
+1590573202723	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590573203161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590573203161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590573203161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590573203161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590573204937	Marionette	INFO	Listening on port 38365
+1590573205430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-52757-xIdi0jqztzoH7utXDCKF1590573210029-qnRB-cas&y7bRbP=rjM6cqlFDfLFDfLFDB8E6GqnrbjZ3HJMcj1vnIhxIC9qqrL line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-52757-xIdi0jqztzoH7utXDCKF1590573210029-qnRB-cas&y7bRbP=rjM6cqlFDfLFDfLFDB8E6GqnrbjZ3HJMcj1vnIhxIC9qqrL line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-52757-xIdi0jqztzoH7utXDCKF1590573210029-qnRB-cas&y7bRbP=rjM6cqlFDfLFDfLFDB8E6GqnrbjZ3HJMcj1vnIhxIC9qqrL line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-52757-xIdi0jqztzoH7utXDCKF1590573210029-qnRB-cas&y7bRbP=rjM6cqlFDfLFDfLFDB8E6GqnrbjZ3HJMcj1vnIhxIC9qqrL line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-52757-xIdi0jqztzoH7utXDCKF1590573210029-qnRB-cas&y7bRbP=rjM6cqmNFK2NFK2NFKGzjNF9Q57Jp74Ba9gw50PTHsLqqD9 line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-52757-xIdi0jqztzoH7utXDCKF1590573210029-qnRB-cas&y7bRbP=rjM6cqmNFK2NFK2NFKGzjNF9Q57Jp74Ba9gw50PTHsLqqD9 line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-52757-xIdi0jqztzoH7utXDCKF1590573210029-qnRB-cas&y7bRbP=rjM6cqmNFK2NFK2NFKGzjNF9Q57Jp74Ba9gw50PTHsLqqD9 line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-52757-xIdi0jqztzoH7utXDCKF1590573210029-qnRB-cas&y7bRbP=rjM6cqmNFK2NFK2NFKGzjNF9Q57Jp74Ba9gw50PTHsLqqD9 line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/lovey/js/plugins/dateeditor/dateeditor.js, line 256: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590573245615	Marionette	INFO	Stopped listening on port 38365
+1590573547442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileAkEfWc"
+*** You are running in headless mode.
+1590573547824	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590573548281	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590573548282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590573548282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590573548282	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590573550264	Marionette	INFO	Listening on port 40437
+1590573550561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-43767-MkmtWTl5AXnokkNztSdG1590573562044-PJ9c-cas&y7bRbP=rjMbcqDcGLtcGLtcGNXC0bpTnpJrgzdFBPjufO2Axk7qqEE line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-43767-MkmtWTl5AXnokkNztSdG1590573562044-PJ9c-cas&y7bRbP=rjMbcqDcGLtcGLtcGNXC0bpTnpJrgzdFBPjufO2Axk7qqEE line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-43767-MkmtWTl5AXnokkNztSdG1590573562044-PJ9c-cas&y7bRbP=rjMbcqDcGLtcGLtcGNXC0bpTnpJrgzdFBPjufO2Axk7qqEE line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-43767-MkmtWTl5AXnokkNztSdG1590573562044-PJ9c-cas&y7bRbP=rjMbcqDcGLtcGLtcGNXC0bpTnpJrgzdFBPjufO2Axk7qqEE line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-43767-MkmtWTl5AXnokkNztSdG1590573562044-PJ9c-cas&y7bRbP=rjMLcqlvxnQvxnQvxu9f2xxyRPMiFZ53vcMV3pAr1GGqqcQ line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-43767-MkmtWTl5AXnokkNztSdG1590573562044-PJ9c-cas&y7bRbP=rjMLcqlvxnQvxnQvxu9f2xxyRPMiFZ53vcMV3pAr1GGqqcQ line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-43767-MkmtWTl5AXnokkNztSdG1590573562044-PJ9c-cas&y7bRbP=rjMLcqlvxnQvxnQvxu9f2xxyRPMiFZ53vcMV3pAr1GGqqcQ line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-43767-MkmtWTl5AXnokkNztSdG1590573562044-PJ9c-cas&y7bRbP=rjMLcqlvxnQvxnQvxu9f2xxyRPMiFZ53vcMV3pAr1GGqqcQ line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1590573622101	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@http://eportal.uestc.edu.cn/new/resources/js/jquery-2.1.1.min.js:4:14955
+ajax@http://eportal.uestc.edu.cn/new/resources/js/jquery-2.1.1.min.js:4:10579
+ready@http://eportal.uestc.edu.cn/new/pc_card/framework/public/tagHtml/amp-w-frame.html.js:124:23
+_invokeBehavior@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer-micro.html.js:348:4
+_doBehavior@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer-micro.html.js:343:6
+_readySelf@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer-mini.html.js:70:6
+_ready@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer-mini.html.js:57:6
+_readyClients@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer-mini.html.js:63:3
+_ready@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer-mini.html.js:55:6
+_tryReady@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer-mini.html.js:46:6
+_initFeatures@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer.html.js:3180:6
+createdCallback@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer-micro.html.js:143:6
+i@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:30999
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:30542
+t@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:30401
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27823
+r/<@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27892
+t/<@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27113
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27271
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27283
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27283
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27283
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27283
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27283
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27283
+n@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27283
+t@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27091
+r@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27870
+t@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27791
+v@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:29566
+i@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27606
+o@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:27413
+_@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:29618
+t@http://eportal.uestc.edu.cn/new/resources/widget/webcomponents/webcomponents-lite.min.js:11:31941
+window.Polymer@http://eportal.uestc.edu.cn/new/pc_card/framework/polymer/polymer-micro.html.js:56:10
+@http://eportal.uestc.edu.cn/new/pc_card/5614311317451115/PC-CARD-HTML-5614311317451115-01/resources/js/card.js:1:8
+JavaScript error: http://eportal.uestc.edu.cn/new/pc_card/5614311317451115/PC-CARD-HTML-5614311317451115-01/resources/js/card.js, line 40: NS_ERROR_XPC_SECURITY_MANAGER_VETO: 
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590573674476	Marionette	INFO	Stopped listening on port 40437
+1590891009525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile1FU0zY"
+*** You are running in headless mode.
+1590891011082	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1590891011554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590891011554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590891011554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590891011554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1590891013536	Marionette	INFO	Listening on port 4460
+1590891013643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://idas.uestc.edu.cn/authserver/login?service=http%3A%2F%2Fportal.uestc.edu.cn%2F line 36 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-139718-nHlgGDryww21qMd2s7nA1590891022831-qnRB-cas&y7bRbP=rj3ZkqD7.tn7.tn7.m9p6KIj0P032w.Tkue6EsewQb0qqta line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-139718-nHlgGDryww21qMd2s7nA1590891022831-qnRB-cas&y7bRbP=rj3ZkqD7.tn7.tn7.m9p6KIj0P032w.Tkue6EsewQb0qqta line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-139718-nHlgGDryww21qMd2s7nA1590891022831-qnRB-cas&y7bRbP=rj3ZkqD7.tn7.tn7.m9p6KIj0P032w.Tkue6EsewQb0qqta line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://portal.uestc.edu.cn/?ticket=ST-139718-nHlgGDryww21qMd2s7nA1590891022831-qnRB-cas&y7bRbP=rj3ZkqD7.tn7.tn7.m9p6KIj0P032w.Tkue6EsewQb0qqta line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-139718-nHlgGDryww21qMd2s7nA1590891022831-qnRB-cas&y7bRbP=rj3ZkqDLjtPLjtPLjtF5C3NbhrK_J1MFBuC_Fsz.4vlqqtG line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-139718-nHlgGDryww21qMd2s7nA1590891022831-qnRB-cas&y7bRbP=rj3ZkqDLjtPLjtPLjtF5C3NbhrK_J1MFBuC_Fsz.4vlqqtG line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-139718-nHlgGDryww21qMd2s7nA1590891022831-qnRB-cas&y7bRbP=rj3ZkqDLjtPLjtPLjtF5C3NbhrK_J1MFBuC_Fsz.4vlqqtG line 5 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: http://idas.uestc.edu.cn/authserver/?ticket=ST-139718-nHlgGDryww21qMd2s7nA1590891022831-qnRB-cas&y7bRbP=rj3ZkqDLjtPLjtPLjtF5C3NbhrK_J1MFBuC_Fsz.4vlqqtG line 5 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://uestc.campusphere.net/wec-amp-boya/helper/bst.min.js, line 1: TypeError: document.body is null
+JavaScript warning: http://eportal.uestc.edu.cn/new/portal/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://res.uestc.cn/fe_components/emap-1.2.js?rv=100003&av=6, line 13907: unreachable code after return statement
+1590891061055	Marionette	INFO	Stopped listening on port 4460
