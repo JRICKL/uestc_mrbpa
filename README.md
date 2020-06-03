@@ -14,9 +14,10 @@
 * selenium
 
 ## 准备工作
-```angular2html
-1. pip install -r requirements.txt
-2. 百度server酱官网注册获取sckey(vx推送信息比较方便)
+```angular2htmi [chu]
+1. 安装firefox浏览器 sudo apt-get install firefox
+2. pip install -r requirements.txt
+3. 百度server酱官网注册获取sckey(vx推送信息比较方便)
 
 ```
  
